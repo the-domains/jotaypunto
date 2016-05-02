@@ -1,0 +1,28 @@
+name: jotaypunto
+favicon: null
+layout_spectrum: 0.37387017207220197
+typography_spectrum: 0.7610557398293167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.786807905882597
+  lightness: 0.28909021406434476
+  saturation: 0.2884640924166888
+  rhythmicContrast: 0.8717702913563699
+purpose: []
